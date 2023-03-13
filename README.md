@@ -1,4 +1,4 @@
 # dashboard-powerBI
 Population and GDP of provinces in Vietnam
 
-![title](capture.png)
+![title](capture.jpg)
